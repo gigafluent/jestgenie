@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : JestGenie App                             # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6474176838                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -13,16 +13,16 @@ presskit_download_link                    : https://gigafluent.com              
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Craft funny photo punchlines
+app_description                           : Craft Funny Photo Punchlines
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
+your_name                                 : Gigafluent Ltd.                                
 your_link                                 : https://gigafluent.com                     
-your_city                                 : Sofia                                
+your_city                                 :                                 
 email_address                             : vlad@gigafluent.com
 facebook_username                         :                                           
 instagram_username                        : jestgenie
@@ -37,16 +37,16 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Easy and intuitive
-    description                           : Pick a photo, then choose the best generated caption. Voilá!
+    description                           : Just pick a photo and wait a second to see the generated captions. Voilá!
     fontawesome_icon_name                 : magic
     
   - title                                 : No hassle
-    description                           : Go straight into caption generation. No sign-up and no purchase get in the way.
+    description                           : Go straight into caption generation. No sign-up and no paywalls get in the way.
     fontawesome_icon_name                 : star
 
   - title                                 : Social media integration
     description                           : Load photos directly from Instagam, X, Twitter and other social media apps.
-    fontawesome_icon_name                 : instagram
+    fontawesome_icon_name                 : sync
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
