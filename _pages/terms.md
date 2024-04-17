@@ -12,7 +12,7 @@ March 2024
 <br>
 
 ## I. Introduction
-These Terms of Use and End User License Agreement (collectively, the “Agreement”) together with all the documents referred to in it constitute a legally binding agreement made between you as a natural person (“you”, “your” or “user”) and Gigafluent Ltd. (“we,” “us” or “our”), concerning your access to and use of “JestGenie“ software application for mobile devices (the “App”). The App’s title may vary in countries other than the U.S. and is subject to change without specific notice.
+These Terms of Use and End User License Agreement (collectively, the “Agreement”) together with all the documents referred to in it constitute a legally binding agreement made between you as a natural person (“you”, “your” or “user”) and Gigafluent Ltd. (“we,” “us” or “our”), concerning your access to and use of [“JestGenie”](https://apps.apple.com/us/app/jestgenie/id6474176838) software application for mobile devices (the “App”). The App’s title may vary in countries other than the U.S. and is subject to change without specific notice.
 
 All the documents that relate to the App are hereby expressly incorporated herein by reference.
 
