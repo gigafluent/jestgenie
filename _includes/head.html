@@ -1,5 +1,23 @@
 <head>
 	{% if site.google_analytics and jekyll.environment == 'production' %}
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+// 			gtag('consent', 'default', {
+// 				'ad_storage': 'denied',
+// 				'ad_user_data': 'denied',
+// 				'ad_personalization': 'denied',
+// 				'analytics_storage': 'denied',
+// 				'regions':[]
+// 			});
+			gtag('consent', 'default', {
+				'ad_storage': 'denied',
+				'ad_user_data': 'denied',
+				'ad_personalization': 'denied',
+				'analytics_storage': 'denied'
+			});
+		</script>
+		
 		<!-- Start cookieyes banner -->
 		<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/c2a22afbd109e8b3f231d5c3/script.js"></script>
 		<!-- End cookieyes banner -->
