@@ -49,6 +49,10 @@ features                                  :
     description                           : Go straight into caption generation. No sign-up and no paywalls get in the way.
     fontawesome_icon_name                 : star
 
+  - title                                 : Hashtags and emoji
+    description                           : Pick the most relevant hashtags and emoji
+    fontawesome_icon_name                 : hashtag
+
   - title                                 : Social media integration
     description                           : Load photos directly from Instagam, X-Twitter and other social media apps.
     fontawesome_icon_name                 : sync
