@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-March 2024
+June 2024
 
 # Privacy Policy
 
@@ -141,6 +141,7 @@ We may engage the following third-party service providers in order to provide us
 | :--- | :--- | :--- | :--- |
 | OpenAI, L.L.C. | AI-generated content provider | U.S.A | <https://openai.com/privacy/> To learn more information about applicable license terms with respect to User Content, visit <https://openai.com/terms/> |
 | Firebase (Google LLC) | User authentication, analytics, and marketing service provider | U.S.A | <https://policies.google.com/privacy> |
+| Facebook SDK | Analytics | U.S.A | <https://www.facebook.com/about/privacy/> |
 | Google AdMob | Advertising service | U.S.A | <https://support.google.com/admob/answer/6128543> |
 | RevenueCat Inc. | In-App subscription implementation and revenue analytics service | U.S.A | <https://www.revenuecat.com/privacy/> |
 
